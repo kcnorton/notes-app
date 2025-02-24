@@ -32,6 +32,16 @@ Open your browser and navigate to http://localhost:5173 to view the app.
 - Delete Notes: Remove notes that are no longer needed.
 - Responsive Design: Accessible on various devices, including desktops and mobile devices.
 
+## Screenshots of the views
+- Notes List Page
+<img width="1430" alt="Screen Shot 2025-02-23 at 11 23 21 PM" src="https://github.com/user-attachments/assets/91383989-25ee-4a09-8558-9a568ec8a226" />
+
+- Note Detail Modal
+  <img width="1432" alt="Screen Shot 2025-02-23 at 11 23 58 PM" src="https://github.com/user-attachments/assets/3e62f596-1803-4983-8e20-88363b2f46e0" />
+
+- Create / Edit Note Modal
+<img width="1432" alt="Screen Shot 2025-02-23 at 11 23 37 PM" src="https://github.com/user-attachments/assets/dafcf8e8-fcc6-4d55-aed9-00a1278d8033" />
+
 ## Technologies Used
 
 - React: JavaScript library for building user interfaces.
@@ -91,6 +101,12 @@ Prebuilt, accessible, and customizable components speed up UI development. Provi
 
 Cons:
 Larger bundle size compared to TailwindCSS. Customization can be more complex than utility-first CSS frameworks.
+
+- Adding Jest for Unit Testing
+
+Pros: Helps catch bugs early and improves code reliability. Provides confidence in refactoring by ensuring functionality remains intact. Works well with React Testing Library for testing components.
+
+Cons: Writing tests can be time-consuming, especially for small projects. Requires maintenance as the codebase evolves.
 
 - Scalability
 
