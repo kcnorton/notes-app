@@ -1,8 +1,9 @@
-```
 # Notes App
+
 A simple and efficient note-taking application built with React, TypeScript, and Vite. The total time spenting building was 3 hours.
 
 ## Installation
+
 Clone the Repository:
 
 bash
@@ -25,12 +26,14 @@ npm run dev
 Open your browser and navigate to http://localhost:5173 to view the app.
 
 ## Features
+
 Create Notes: Add new notes with a title and description.
 Edit Notes: Modify existing notes as needed.
 Delete Notes: Remove notes that are no longer needed.
 Responsive Design: Accessible on various devices, including desktops and mobile devices.
 
 ## Technologies Used
+
 React: JavaScript library for building user interfaces.
 TypeScript: Superset of JavaScript that adds static typing.
 Vite: Next-generation frontend tooling for faster builds.
@@ -42,6 +45,7 @@ Prettier: Code formatter to maintain consistent code style.
 ## Considerations and Tradeoffs
 
 ### Current Choices
+
 While building this app, several architectural and design decisions were made:
 
 State Management with TanStack Query
@@ -60,6 +64,7 @@ Pros: Faster builds, better performance, and modern tooling support. CRA is cons
 Cons: Less mature ecosystem compared to CRA, requiring additional configuration in some cases.
 
 ### Future Considerations
+
 Migrating to Next.js
 
 Pros:
@@ -93,4 +98,3 @@ Scalability
 The current architecture is ideal for small-scale applications but may need refactoring (e.g., modularizing components, optimizing API calls) as the project grows.
 
 Note: This project is a practice application developed by Kara Norton.
-```
