@@ -64,6 +64,12 @@ Pros: Simplifies data fetching, caching, and synchronization with the server.
 
 Cons: May be unnecessary for very simple apps with minimal data-fetching needs.
 
+- Using TypeScript instead of JavaScript
+
+Pros: Static typing helps catch errors at compile time, reducing runtime bugs. Enhances maintainability and scalability of the codebase.
+
+Cons: Requires additional setup and configuration compared to plain JavaScript. Type definitions may need maintenance as the codebase evolves.
+
 - Styling with TailwindCSS
 
 Pros: Speeds up development with utility classes and reduces the need for custom CSS files.
