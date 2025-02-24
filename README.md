@@ -1,6 +1,6 @@
 # Notes App
 
-A simple and efficient note-taking application built with React, TypeScript, and Vite. The total time spenting building was 3 hours.
+A simple and efficient note-taking application built with React, TypeScript, and Vite. The total time spent building was 3 hours.
 
 ## Installation
 
