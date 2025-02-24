@@ -27,13 +27,12 @@ const App = () => {
     useEffect(() => {
         if (notesData) {
             setNotes(notesData);
-        }
 
-        // Update the selected note details
-        const updatedNote = (notesData as Note[])?.find(
-            (note: Note) => note.id === selectedNote?.id
-        );
-        if (updatedNote) setSelectedNote(updatedNote);
+            // Update selected note details after edit
+            setSelectedNote((prev) =>
+                notesData?.find((note: Note) => note.id === prev?.id)
+            );
+        }
     }, [notesData]);
 
     // Open the detail modal to view a note
