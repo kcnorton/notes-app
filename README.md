@@ -34,13 +34,13 @@ Open your browser and navigate to http://localhost:5173 to view the app.
 
 ## Screenshots of the views
 - Notes List Page
-<img width="1430" alt="Screen Shot 2025-02-23 at 11 23 21 PM" src="https://github.com/user-attachments/assets/91383989-25ee-4a09-8558-9a568ec8a226" />
+<img width="1440" alt="Screen Shot 2025-02-24 at 12 28 28 AM" src="https://github.com/user-attachments/assets/e8d9674f-1d12-47c9-aac9-d91eaf0131f4" />
 
 - Note Detail Modal
-  <img width="1432" alt="Screen Shot 2025-02-23 at 11 23 58 PM" src="https://github.com/user-attachments/assets/3e62f596-1803-4983-8e20-88363b2f46e0" />
+ <img width="1440" alt="Screen Shot 2025-02-24 at 12 28 52 AM" src="https://github.com/user-attachments/assets/cb415877-a18d-4b47-a0db-82cce6c05f6a" />
 
 - Create / Edit Note Modal
-<img width="1432" alt="Screen Shot 2025-02-23 at 11 23 37 PM" src="https://github.com/user-attachments/assets/dafcf8e8-fcc6-4d55-aed9-00a1278d8033" />
+<img width="1440" alt="Screen Shot 2025-02-24 at 12 28 41 AM" src="https://github.com/user-attachments/assets/4dc81ea8-692a-4ebe-91b0-1f9bd5efb3ea" />
 
 ## Technologies Used
 
