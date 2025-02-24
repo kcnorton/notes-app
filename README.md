@@ -7,9 +7,6 @@ A simple and efficient note-taking application built with React, TypeScript, and
 Clone the Repository:
 
 ```
-bash
-Copy
-Edit
 git clone https://github.com/kcnorton/notes-app.git
 cd notes-app
 ```
@@ -17,18 +14,12 @@ cd notes-app
 Install Dependencies:
 
 ```
-bash
-Copy
-Edit
 npm install
 ```
 
 Start the Development Server:
 
 ```
-bash
-Copy
-Edit
 npm run dev
 ```
 
