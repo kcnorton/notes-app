@@ -15,7 +15,9 @@ const NoteItem = ({ value, shouldSpanColumns, onClick }: NoteItemProps) => {
             }
         >
             <div className="flex">
-                <HiOutlineAnnotation className="my-1 mr-3" size={25} />
+                <div>
+                    <HiOutlineAnnotation className="my-1 mr-3" size={25} />
+                </div>
                 {value.title}
             </div>
             {formattedDate}

@@ -21,10 +21,12 @@ const NoteDetailModal = ({
                 <div className={modalContentStyle}>
                     <div className="flex justify-between">
                         <div className="flex">
-                            <HiOutlineAnnotation
-                                className="my-1 mr-3"
-                                size={25}
-                            />
+                            <div>
+                                <HiOutlineAnnotation
+                                    className="my-1 mr-3"
+                                    size={25}
+                                />
+                            </div>
                             <div>
                                 <div className="flex justify-between">
                                     <h2>{value.title}</h2>
